@@ -17,7 +17,7 @@ Para o desenvolvimento dessa aplicação, foi utilizado:
 
 - Baixe o projeto
 - Copie o arquivo .env.example e renomeia para .env
-- composer Install
+- composer install
 - npm install && npm run dev
 - php artisan generate:key
 - conecta ao banco de dados e executa php artisan migrate
